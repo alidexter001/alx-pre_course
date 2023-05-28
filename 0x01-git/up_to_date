@@ -1,5 +1,6 @@
 git checkout main
 git fetch origin
-git merge origin/main
+git pull origin main
+git pull
 git add README.md
 git commit -m 'Update README.md file after Github.com update'
